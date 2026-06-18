@@ -19,4 +19,4 @@ PLUTO v0.0.1-alpha  Sniffs open ports
 - Logo: Letizia mariano
 
  ### Known issues
- ** The developer would like to point out that this is only a very first version, which does not use threads, so research takes time, better versions will be developed **
+ **The developer would like to point out that this is only a very first version, which does not use threads, so research takes time, better versions will be developed**
